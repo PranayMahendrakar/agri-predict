@@ -2,3 +2,4 @@
 
 - [2026-04-29T13:48:05Z] test: add unit tests for core module
 - [2026-04-29T14:26:36Z] chore: update dependencies to latest versions
+- [2026-04-29T13:05:41Z] chore: update dependencies to latest versions
